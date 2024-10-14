@@ -1,0 +1,35 @@
+header {
+		background-color: purple;
+		width: 900px;
+		height: 100px;
+		text-align: center;
+		padding-top: 30px;
+		margin: 10px auto;
+	}
+	div {
+		width: 900px; 
+		margin: 10px auto
+	}
+	aside{
+		background-color: grey
+		height: 300px;
+		text-align: center;
+		padding-top: 30px;
+		width: 300px;
+		float: left;
+	}
+	main{
+		background-color: #e6e6ff;
+		height: 300px;
+		text-align: center;
+		padding-top: 30px;
+	}
+	footer {
+		background-color: pink;
+		width: 900px;
+		height: 100px;
+		text-align: bottom;
+		padding-top: 30px;
+		margin: 10px auto;
+
+	}
